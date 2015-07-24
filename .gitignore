@@ -1,0 +1,7 @@
+*.pyc
+
+build/
+dist/
+
+lib/mo_lab/_agg.cpp
+lib/mo_lab/_agg.so
